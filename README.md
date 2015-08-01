@@ -16,4 +16,4 @@ Steps:
 
 `paper_rock_scissors.rb` is my original creation.
 
-`prs_refactored.rb` is the refactored version of the same program after reading the <Code Review Tips>.
+`prs_refactored.rb` is the refactored version of the same program after reading the `Code Review Tips`.
